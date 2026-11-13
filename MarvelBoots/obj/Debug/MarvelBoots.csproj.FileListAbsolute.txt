@@ -1,0 +1,35 @@
+X:\IV курс\МДК.02.02 ИСРПО\MarvelBoots\MarvelBoots\obj\Debug\MarvelBoots.csproj.AssemblyReference.cache
+X:\IV курс\МДК.02.02 ИСРПО\MarvelBoots\MarvelBoots\obj\Debug\MarvelBoots.AppForms.ParentForm.resources
+X:\IV курс\МДК.02.02 ИСРПО\MarvelBoots\MarvelBoots\obj\Debug\MarvelBoots.Properties.Resources.resources
+X:\IV курс\МДК.02.02 ИСРПО\MarvelBoots\MarvelBoots\obj\Debug\MarvelBoots.csproj.GenerateResource.cache
+X:\IV курс\МДК.02.02 ИСРПО\MarvelBoots\MarvelBoots\obj\Debug\MarvelBoots.csproj.CoreCompileInputs.cache
+C:\Users\2496-23\Desktop\MarvelBoots\MarvelBoots\obj\Debug\MarvelBoots.csproj.AssemblyReference.cache
+C:\Users\2496-23\Desktop\MarvelBoots\MarvelBoots\obj\Debug\MarvelBoots.AppForms.ParentForm.resources
+C:\Users\2496-23\Desktop\MarvelBoots\MarvelBoots\obj\Debug\MarvelBoots.Properties.Resources.resources
+C:\Users\2496-23\Desktop\MarvelBoots\MarvelBoots\obj\Debug\MarvelBoots.csproj.GenerateResource.cache
+C:\Users\2496-23\Desktop\MarvelBoots\MarvelBoots\obj\Debug\MarvelBoots.csproj.CoreCompileInputs.cache
+C:\Users\2496-23\Desktop\MarvelBoots\MarvelBoots\bin\Debug\MarvelBoots.exe.config
+C:\Users\2496-23\Desktop\MarvelBoots\MarvelBoots\bin\Debug\MarvelBoots.exe
+C:\Users\2496-23\Desktop\MarvelBoots\MarvelBoots\bin\Debug\MarvelBoots.pdb
+C:\Users\2496-23\Desktop\MarvelBoots\MarvelBoots\obj\Debug\MarvelBoots.exe
+C:\Users\2496-23\Desktop\MarvelBoots\MarvelBoots\obj\Debug\MarvelBoots.pdb
+C:\Users\2496-23\Desktop\MarvelBoots\MarvelBoots\obj\Debug\MarvelBoots.AppForms.LoginForm.resources
+C:\Users\2496-23\Desktop\MarvelBoots\MarvelBoots\obj\Debug\MarvelBoots.AppForms.ProductListForm.resources
+C:\Users\2496-23\Desktop\MarvelBoots\MarvelBoots\bin\Debug\EntityFramework.dll
+C:\Users\2496-23\Desktop\MarvelBoots\MarvelBoots\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\2496-23\Desktop\MarvelBoots\MarvelBoots\bin\Debug\EntityFramework.xml
+C:\Users\2496-23\Desktop\MarvelBoots\MarvelBoots\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\2496-23\Desktop\MarvelBoots\MarvelBoots\obj\Debug\MarvelBo.2D7B3E9A.Up2Date
+X:\IV курс\МДК.02.02 ИСРПО\MarvelBoots\MarvelBoots\bin\Debug\MarvelBoots.exe.config
+X:\IV курс\МДК.02.02 ИСРПО\MarvelBoots\MarvelBoots\bin\Debug\MarvelBoots.exe
+X:\IV курс\МДК.02.02 ИСРПО\MarvelBoots\MarvelBoots\bin\Debug\MarvelBoots.pdb
+X:\IV курс\МДК.02.02 ИСРПО\MarvelBoots\MarvelBoots\bin\Debug\EntityFramework.dll
+X:\IV курс\МДК.02.02 ИСРПО\MarvelBoots\MarvelBoots\bin\Debug\EntityFramework.SqlServer.dll
+X:\IV курс\МДК.02.02 ИСРПО\MarvelBoots\MarvelBoots\bin\Debug\EntityFramework.xml
+X:\IV курс\МДК.02.02 ИСРПО\MarvelBoots\MarvelBoots\bin\Debug\EntityFramework.SqlServer.xml
+X:\IV курс\МДК.02.02 ИСРПО\MarvelBoots\MarvelBoots\obj\Debug\MarvelBoots.AppForms.LoginForm.resources
+X:\IV курс\МДК.02.02 ИСРПО\MarvelBoots\MarvelBoots\obj\Debug\MarvelBoots.AppForms.ProductListForm.resources
+X:\IV курс\МДК.02.02 ИСРПО\MarvelBoots\MarvelBoots\obj\Debug\MarvelBo.2D7B3E9A.Up2Date
+X:\IV курс\МДК.02.02 ИСРПО\MarvelBoots\MarvelBoots\obj\Debug\MarvelBoots.exe
+X:\IV курс\МДК.02.02 ИСРПО\MarvelBoots\MarvelBoots\obj\Debug\MarvelBoots.pdb
+C:\Users\2496-23\Desktop\MarvelBoots\MarvelBoots\obj\Debug\MarvelBoots.AppControls.ProductUserControl.resources
